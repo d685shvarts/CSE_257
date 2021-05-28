@@ -1,7 +1,3 @@
-# Deep Learning
-This repo contains my code during learning deep learning.
-
-The current sections:
-
-1- Reinforcement Learning
-2- Convolutional LSTMs
+# CSE257 Final Paper Code
+- Forked from https://github.com/Ahmkel/Deep-Learning
+- Refer to prior commit for code to assess model training and performance for Cart Pole and Frozen Lake
